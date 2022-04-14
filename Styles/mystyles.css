@@ -1,0 +1,25 @@
+/*this will be applied to the */
+
+h1{
+    font-family:papyrus ;
+}
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+li{
+    padding-bottom: 20px;
+}
+
+.intro{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.paddingSpace{
+    padding-bottom: 20px;
+}
+
+.Famfix{
+    resize: horizontal;
+}

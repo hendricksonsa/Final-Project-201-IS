@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(252, 222, 186);
+    resize: both;
+}
+
+.headCenter{
+    text-align: center;
+}
+
+.TabLeft{
+    padding-left: 150px;
+    padding-right: 150px;
+}
